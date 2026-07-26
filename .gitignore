@@ -1,6 +1,6 @@
 # Local .terraform directories
 .gitleaks.toml
-.terraform.lock.hclg
+.terraform.lock.hcl
 .terraform/
 
 # .tfstate files
